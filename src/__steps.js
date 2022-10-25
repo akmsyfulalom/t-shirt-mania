@@ -13,3 +13,11 @@
  * 
  * 
  */
+/**
+ * 
+ Contect API
+ 1. Declear a contect 
+ 2. Set Provider with value
+ 3. Use context in the place where you want get the context
+ 4. 
+ */
